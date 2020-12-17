@@ -1,0 +1,6 @@
+OBJECT_BASE 452384.btg
+OBJECT AET.btg
+OBJECT PFAL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -152.636282 66.550607 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -152.608030 66.553029 -9999.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -152.622840 66.552740 128.9 0.00

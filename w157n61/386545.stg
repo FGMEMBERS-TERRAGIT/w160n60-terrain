@@ -1,0 +1,4 @@
+OBJECT_BASE 386545.btg
+OBJECT SRV.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -156.584898 61.793173 76.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -156.591474 61.786577 75.7 0.00

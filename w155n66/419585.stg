@@ -1,0 +1,5 @@
+OBJECT_BASE 419585.btg
+OBJECT PAHU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -154.259266 66.045813 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -154.267115 66.036430 -9999.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -154.260897 66.040889 85.0 0.00

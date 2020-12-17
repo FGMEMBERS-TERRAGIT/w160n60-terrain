@@ -1,0 +1,6 @@
+OBJECT_BASE 337448.btg
+OBJECT PAHX.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -159.587290 62.688862 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -159.568613 62.698411 17.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -159.550827 62.701376 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -159.569510 62.691828 20.0 0.00

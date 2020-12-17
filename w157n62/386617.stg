@@ -1,0 +1,4 @@
+OBJECT_BASE 386617.btg
+OBJECT PPCT.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -156.073793 62.992615 241.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -156.062588 62.992793 238.6 0.00
